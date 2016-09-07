@@ -1,0 +1,4 @@
+#Muhammad Fathin Rahman
+#1406622944
+
+This week (week 1) I have new tasks about CLI, GIT and Scripting. First of all, the tasks show me how to clone my GIT Repository and what GIT is. I tried how to make and delete files/folders in CLI. The important thing is they show me how to push and pull repository. In the end, they show me how to make a simple script in linux or called Scripting.

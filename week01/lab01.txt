@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 muhammad.fathin41 StafCS 4096 Sep  7 23:22 .
+drwx--x--x  3 muhammad.fathin41 StafCS 4096 Sep  7 23:16 ..
+drwxr-xr-x  8 muhammad.fathin41 StafCS 4096 Sep  7 23:19 .git
+-rw-r--r--  1 muhammad.fathin41 StafCS    0 Sep  7 23:23 lab01.txt
+-rw-r--r--  1 muhammad.fathin41 StafCS    7 Sep  7 21:31 README.md
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 22:06 SandBox
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 23:16 week00
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:52 week01
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:52 week02
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:53 week03
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:54 week04
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:54 week05
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:54 week06
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:54 week07
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:55 week08
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:55 week09
+drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:55 week10
+/home/fasilkom/mahasiswa/m/muhammad.fathin41/os162/week01

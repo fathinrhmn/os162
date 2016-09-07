@@ -1,0 +1,4 @@
+#Muhammad Fathin Rahman
+#1406622944
+
+There are some tasks that i have got from Operating Systems. Last week (week 0) I have to greet my classmates in a forum to proof my presence. I also have to make accounts at Google and GitHub. After being registered, I made a repository at GitHub and filled out a google form. I have to log in to badak.cs.ui.ac.id through my own SIAK account. This week (week 1) I have got another tasks from Mr. Rahmat. The tasks are about CLI, GIT and Scripting. I wish I can finish those tasks correctly.

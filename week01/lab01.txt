@@ -17,3 +17,4 @@ drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:55 week08
 drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:55 week09
 drwxr-xr-x  2 muhammad.fathin41 StafCS 4096 Sep  7 21:55 week10
 /home/fasilkom/mahasiswa/m/muhammad.fathin41/os162/week01
+Today is 11 Sep 2016 at 21:46:05
